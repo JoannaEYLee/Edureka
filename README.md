@@ -1,2 +1,3 @@
 # Edureka
-Training - First repository
+This is first repository
+This is first commit
